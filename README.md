@@ -1,7 +1,7 @@
 Create a to-do-app
 
 Project Description
-The goal of this project is to create a ToDo List web application using Node.js, Express.js, and EJS. The application will allow users to create and view tasks. 
+The goal of this project is to create a ToDo List web application using Node.js, Express.js, and EJS. The application will allow users to create ,view tasks,update task , delete task from MongoDB database. 
 
 
 Features
@@ -13,7 +13,9 @@ Features
 
 4. Segmented Lists: Users should be able to access at least 2 lists, one for the day's tasks and another for their work related tasks. (See example website)
 
-3. Styling: The application should be well-styled and responsive, ensuring a good user experience on both desktop and mobile devices.
+5 Users should be able to mark tasks as completed.
+
+6. Styling: The application should be well-styled and responsive, ensuring a good user experience on both desktop and mobile devices.
 
 
 
